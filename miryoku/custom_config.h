@@ -13,3 +13,4 @@ U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT
 &kp X,             &kp Q,             &kp M,             &kp W,             &kp Z,             &kp K,             &kp F,             &kp COMMA,         &kp DOT,           &kp SLASH,         \
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
 
+#define MIRYOKU_NAV_VI
